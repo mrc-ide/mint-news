@@ -1,0 +1,34 @@
+baseURL: "https://mrc-ide.github.io/mint-news/"
+languageCode: "en-gb"
+title: "MINT News"
+theme: ["papermod-changelog", "PaperMod"]
+enableEmoji: true
+
+params:
+  # https://github.com/adityatelange/hugo-PaperMod/wiki/Installation#sample-configyml
+  DateFormat: "2 Jan 2006"
+  disableThemeToggle: true
+  disableSpecial1stPost: true
+  hideMeta: false
+  ShowPostNavLinks: true
+  homeInfoParams:
+    Title: MINT News
+    Content: What's new and updated in MINT
+  tags:
+    - text: Update
+      colour: "#FFBA11"
+    - text: Feature
+      colour: "#14CC80"
+    - text: Data
+      colour: "#E31837"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
