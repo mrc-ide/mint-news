@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sourceRoot": "/home/runner/work/mint-news/mint-news",
+	"sources": [
+		"themes/papermod-changelog/assets/sass/template.scss"
+	],
+	"sourcesContent": [
+		"\n  .post-tags a.Update {\n    color: #FFBA11\n  }\n\n  .terms-tags a.Update {\n    color: #FFBA11\n  }\n\n  .post-tags a.Feature {\n    color: #14CC80\n  }\n\n  .terms-tags a.Feature {\n    color: #14CC80\n  }\n\n  .post-tags a.Data {\n    color: #E31837\n  }\n\n  .terms-tags a.Data {\n    color: #E31837\n  }\n\n"
+	],
+	"names": [],
+	"mappings": "AACE,AAAA,UAAU,CAAC,CAAC,AAAA,OAAO,AAAC,CAClB,KAAK,CAAE,OACT,CAAC,AAED,AAAA,WAAW,CAAC,CAAC,AAAA,OAAO,AAAC,CACnB,KAAK,CAAE,OACT,CAAC,AAED,AAAA,UAAU,CAAC,CAAC,AAAA,QAAQ,AAAC,CACnB,KAAK,CAAE,OACT,CAAC,AAED,AAAA,WAAW,CAAC,CAAC,AAAA,QAAQ,AAAC,CACpB,KAAK,CAAE,OACT,CAAC,AAED,AAAA,UAAU,CAAC,CAAC,AAAA,KAAK,AAAC,CAChB,KAAK,CAAE,OACT,CAAC,AAED,AAAA,WAAW,CAAC,CAAC,AAAA,KAAK,AAAC,CACjB,KAAK,CAAE,OACT,CAAC"
+}
